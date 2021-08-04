@@ -1,0 +1,317 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\xampp\htdocs\Loan\Loan.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\xampp\htdocs\Loan\db_connect.php"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <todoblock>
+  <todofile name="C:\xampp\htdocs\Loan\assets\DataTables\DataTables-1.10.21\js\jquery.dataTables.js">
+   <todo name="todo depreciated" pos="36;3603"/>
+   <todo name="@todo depreciated" pos="35;3603"/>
+   <todo name="todo Move options into their own plugins?" pos="5;3642"/>
+   <todo name="@todo Move options into their own plugins?" pos="4;3642"/>
+   <todo name="todo As per sort - can this be moved into an event handler?" pos="4;4287"/>
+   <todo name="@todo As per sort - can this be moved into an event handler?" pos="3;4287"/>
+   <todo name="todo Can this be moved into a 'data-ready' handler which is called when" pos="4;5943"/>
+   <todo name="@todo Can this be moved into a 'data-ready' handler which is called when" pos="3;5943"/>
+   <todo name="todo - for 1.11 this needs to be done by" pos="27;6376"/>
+   <todo name="todo - Is there need for an augment function?" pos="3;7229"/>
+   <todo name="@todo - Is there need for an augment function?" pos="2;7229"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\Loan\assets\DataTables\datatables.js">
+   <todo name="todo depreciated" pos="36;3615"/>
+   <todo name="@todo depreciated" pos="35;3615"/>
+   <todo name="todo Move options into their own plugins?" pos="5;3654"/>
+   <todo name="@todo Move options into their own plugins?" pos="4;3654"/>
+   <todo name="todo As per sort - can this be moved into an event handler?" pos="4;4299"/>
+   <todo name="@todo As per sort - can this be moved into an event handler?" pos="3;4299"/>
+   <todo name="todo Can this be moved into a 'data-ready' handler which is called when" pos="4;5955"/>
+   <todo name="@todo Can this be moved into a 'data-ready' handler which is called when" pos="3;5955"/>
+   <todo name="todo - for 1.11 this needs to be done by" pos="27;6388"/>
+   <todo name="todo - Is there need for an augment function?" pos="3;7241"/>
+   <todo name="@todo - Is there need for an augment function?" pos="2;7241"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap\js\bootstrap.bundle.js">
+   <todo name="TODO: Remove in v5" pos="5;198"/>
+   <todo name="todo (fat): these should probably be refactored out of modal.js" pos="5;5094"/>
+   <todo name="TODO (fat): remove sketch reliance on jQuery position/offset" pos="13;6375"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap\js\bootstrap.js">
+   <todo name="TODO: Remove in v5" pos="5;199"/>
+   <todo name="todo (fat): these should probably be refactored out of modal.js" pos="5;2481"/>
+   <todo name="TODO (fat): remove sketch reliance on jQuery position/offset" pos="13;3762"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\Loan\assets\vendor\owl.carousel\owl.carousel.js">
+   <todo name="TODO: Should be computed from number of min width items in stage" pos="5;330"/>
+   <todo name="TODO: Need documentation for this new option" pos="6;1920"/>
+  </todofile>
+ </todoblock>
+ <dbgurls/>
+ <filescache>
+  <file name="C:\xampp\htdocs\Loan\database\loan_db.sql" crc="1614243880000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\waypoints\jquery.waypoints.min.js" crc="1592806574000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\venobox\venobox.min.js" crc="1592806574000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\venobox\venobox.min.css" crc="1592806574000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\venobox\venobox.js" crc="1592806574000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\venobox\venobox.css" crc="1592806574000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\remixicon\remixicon.less" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\remixicon\remixicon.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\php-email-form\validate.js" crc="1592806574000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\php-email-form\changelog.txt" crc="1592806574000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\owl.carousel\assets\owl.theme.green.min.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\owl.carousel\assets\owl.theme.green.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\owl.carousel\assets\owl.theme.default.min.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\owl.carousel\assets\owl.theme.default.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\owl.carousel\assets\owl.carousel.min.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\owl.carousel\assets\owl.carousel.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\owl.carousel\owl.carousel.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\owl.carousel\owl.carousel.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\jquery.easing\jquery.easing.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\jquery\jquery.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\icofont\icofont.min.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\counterup\counterup.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\boxicons\css\transformations.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\boxicons\css\boxicons.min.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\boxicons\css\boxicons.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\boxicons\css\animations.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.zh-TW.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.zh-CN.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.vi.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.uz-latn.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.uz-cyrl.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.uk.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.tr.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.tk.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.th.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.tg.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.ta.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.sw.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.sv.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.sr.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.sr-latin.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.sq.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.sl.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.sk.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.si.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.ru.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.rs.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.rs-latin.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.ro.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.pt.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.pt-BR.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.pl.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.oc.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.no.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.nl.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.nl-BE.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.ms.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.mn.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.mk.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.me.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.lv.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.lt.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.kr.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.ko.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.km.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.kk.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.kh.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.ka.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.ja.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.it.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.it-CH.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.is.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.id.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.hy.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.hu.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.hr.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.hi.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.he.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.gl.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.fr.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.fr-CH.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.fo.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.fi.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.fa.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.eu.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.et.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.es.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.eo.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.en-ZA.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.en-NZ.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.en-IE.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.en-GB.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.en-CA.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.en-AU.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.el.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.de.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.da.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.cy.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.cs.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.ca.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.bs.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.br.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.bn.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.bm.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.bg.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.az.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.ar.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker.ar-tn.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\locales\bootstrap-datepicker-en-CA.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\js\bootstrap-datepicker.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\js\bootstrap-datepicker.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\css\bootstrap-datepicker3.standalone.min.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\css\bootstrap-datepicker3.standalone.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\css\bootstrap-datepicker3.min.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\css\bootstrap-datepicker3.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\css\bootstrap-datepicker.standalone.min.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\css\bootstrap-datepicker.standalone.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\css\bootstrap-datepicker.min.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap-datepicker\css\bootstrap-datepicker.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap\js\bootstrap.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap\js\bootstrap.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap\js\bootstrap.bundle.min.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap\js\bootstrap.bundle.js" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap\css\bootstrap.min.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap\css\bootstrap.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap\css\bootstrap-reboot.min.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap\css\bootstrap-reboot.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap\css\bootstrap-grid.min.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\bootstrap\css\bootstrap-grid.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\animate.css\animate.min.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\animate.css\animate.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\vendor\animate.css\animate.compat.css" crc="1592806572000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\js\select2.min.js" crc="1573826076000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\js\jquery.datetimepicker.full.min.js" crc="1599553192000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\js\jquery-te-1.4.0.min.js" crc="1378938966000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\scss\v4-shims.scss" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\scss\solid.scss" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\scss\regular.scss" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\scss\fontawesome.scss" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\scss\brands.scss" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\scss\_variables.scss" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\scss\_stacked.scss" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\scss\_shims.scss" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\scss\_screen-reader.scss" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\scss\_rotated-flipped.scss" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\scss\_mixins.scss" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\scss\_list.scss" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\scss\_larger.scss" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\scss\_icons.scss" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\scss\_fixed-width.scss" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\scss\_core.scss" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\scss\_bordered-pulled.scss" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\scss\_animated.scss" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\less\v4-shims.less" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\less\solid.less" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\less\regular.less" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\less\fontawesome.less" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\less\brands.less" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\less\_variables.less" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\less\_stacked.less" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\less\_shims.less" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\less\_screen-reader.less" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\less\_rotated-flipped.less" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\less\_mixins.less" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\less\_list.less" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\less\_larger.less" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\less\_icons.less" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\less\_fixed-width.less" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\less\_core.less" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\less\_bordered-pulled.less" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\less\_animated.less" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\js\v4-shims.min.js" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\js\v4-shims.js" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\js\solid.min.js" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\js\solid.js" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\js\regular.min.js" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\js\regular.js" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\js\fontawesome.min.js" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\js\fontawesome.js" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\js\conflict-detection.min.js" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\js\conflict-detection.js" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\js\brands.min.js" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\js\brands.js" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\js\all.min.js" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\js\all.js" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\css\v4-shims.min.css" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\css\v4-shims.css" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\css\svg-with-js.min.css" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\css\svg-with-js.css" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\css\solid.min.css" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\css\solid.css" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\css\regular.min.css" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\css\regular.css" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\css\fontawesome.min.css" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\css\fontawesome.css" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\css\brands.min.css" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\css\brands.css" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\css\all.min.css" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\css\all.css" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\package.json" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\font-awesome\LICENSE.txt" crc="1568622516000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\DataTables-1.10.21\js\jquery.dataTables.min.js" crc="1589193444000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\DataTables-1.10.21\js\jquery.dataTables.js" crc="1589193444000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\DataTables-1.10.21\js\dataTables.semanticui.min.js" crc="1589193444000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\DataTables-1.10.21\js\dataTables.semanticui.js" crc="1589193444000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\DataTables-1.10.21\js\dataTables.jqueryui.min.js" crc="1589193444000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\DataTables-1.10.21\js\dataTables.jqueryui.js" crc="1589193444000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\DataTables-1.10.21\js\dataTables.foundation.min.js" crc="1589193444000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\DataTables-1.10.21\js\dataTables.foundation.js" crc="1589193444000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\DataTables-1.10.21\js\dataTables.bootstrap4.min.js" crc="1589193442000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\DataTables-1.10.21\js\dataTables.bootstrap4.js" crc="1589193442000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\DataTables-1.10.21\js\dataTables.bootstrap.min.js" crc="1589193442000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\DataTables-1.10.21\js\dataTables.bootstrap.js" crc="1589193442000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\DataTables-1.10.21\css\jquery.dataTables.min.css" crc="1589193442000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\DataTables-1.10.21\css\jquery.dataTables.css" crc="1589193442000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\DataTables-1.10.21\css\dataTables.semanticui.min.css" crc="1589193442000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\DataTables-1.10.21\css\dataTables.semanticui.css" crc="1589193442000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\DataTables-1.10.21\css\dataTables.jqueryui.min.css" crc="1589193442000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\DataTables-1.10.21\css\dataTables.jqueryui.css" crc="1589193442000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\DataTables-1.10.21\css\dataTables.foundation.min.css" crc="1589193442000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\DataTables-1.10.21\css\dataTables.foundation.css" crc="1589193442000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\DataTables-1.10.21\css\dataTables.bootstrap4.min.css" crc="1589193442000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\DataTables-1.10.21\css\dataTables.bootstrap4.css" crc="1589193442000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\DataTables-1.10.21\css\dataTables.bootstrap.min.css" crc="1589193442000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\DataTables-1.10.21\css\dataTables.bootstrap.css" crc="1589193442000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\datatables.min.js" crc="1589194358000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\datatables.min.css" crc="1589194358000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\datatables.js" crc="1589194358000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\DataTables\datatables.css" crc="1589194358000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\css\style.css" crc="1601097556000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\css\select2.min.css" crc="1573826074000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\css\jquery.datetimepicker.min.css" crc="1599553662000"/>
+  <file name="C:\xampp\htdocs\Loan\assets\css\jquery-te-1.4.0.css" crc="1378938986000"/>
+  <file name="C:\xampp\htdocs\Loan\users.php" crc="1625713788375"/>
+  <file name="C:\xampp\htdocs\Loan\topbar.php" crc="1614237528000"/>
+  <file name="C:\xampp\htdocs\Loan\plan.php" crc="1601092886000"/>
+  <file name="C:\xampp\htdocs\Loan\payments.php" crc="1614234148000"/>
+  <file name="C:\xampp\htdocs\Loan\navbar.php" crc="1627213695009"/>
+  <file name="C:\xampp\htdocs\Loan\manage_user.php" crc="1601113766000"/>
+  <file name="C:\xampp\htdocs\Loan\manage_payment.php" crc="1614236390000"/>
+  <file name="C:\xampp\htdocs\Loan\manage_loan.php" crc="1626243542397"/>
+  <file name="C:\xampp\htdocs\Loan\manage_borrower.php" crc="1625930143685"/>
+  <file name="C:\xampp\htdocs\Loan\login.php" crc="1614241720000"/>
+  <file name="C:\xampp\htdocs\Loan\loans.php" crc="1626143888379"/>
+  <file name="C:\xampp\htdocs\Loan\loan_type.php" crc="1601090954000"/>
+  <file name="C:\xampp\htdocs\Loan\load_fields.php" crc="1614236756000"/>
+  <file name="C:\xampp\htdocs\Loan\index.php" crc="1626534220060"/>
+  <file name="C:\xampp\htdocs\Loan\home.php" crc="1626145524203"/>
+  <file name="C:\xampp\htdocs\Loan\header.php" crc="1601007698000"/>
+  <file name="C:\xampp\htdocs\Loan\db_connect.php" crc="1601091118000"/>
+  <file name="C:\xampp\htdocs\Loan\calculation_table.php" crc="1601099284000"/>
+  <file name="C:\xampp\htdocs\Loan\borrowers.php" crc="1627198189559"/>
+  <file name="C:\xampp\htdocs\Loan\ajax.php" crc="1625894495727"/>
+  <file name="C:\xampp\htdocs\Loan\admin_class.php" crc="1625894501373"/>
+  <file name="C:\xampp\htdocs\Loan\add_payment.php" crc="1625894535326"/>
+ </filescache>
+</project>
